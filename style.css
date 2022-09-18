@@ -1,0 +1,23 @@
+
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    line-height: 1.5em;
+}
+.box1{
+    background-image:url('./08D39D2415169B688288A102FF5C75F7.jpg');
+
+    color: rgb(211, 214, 225);
+     
+}
+.box1 h1{
+    text-decoration:underline;
+    letter-spacing: 0.5em;
+    
+}
+.container1{ 
+    width: 100%;
+    margin: auto;
+    
+}
+
